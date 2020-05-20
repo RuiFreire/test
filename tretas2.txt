@@ -1,7 +1,4 @@
 treta2-1
 treta2-2
 treta2-3
-<<<<<<< HEAD
-=======
 treta2-4
->>>>>>> 7ab8a366df5ac8da996743fc3678b76df4718a08
