@@ -3,3 +3,5 @@ treta 2
 treta 3
 treta 4
 treta 5
+treta 6
+treta 7
